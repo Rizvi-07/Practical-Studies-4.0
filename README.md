@@ -12,17 +12,17 @@ This README accompanies the visualizations of daily production quantities for Se
 1. **Weekly Production Overview**
    - **Description**: Visualization of the production quantity broken down by weekdays across Weeks 36 to 40.
    - **Insight**: Highlights fluctuating production with peaks on Tuesdays and dips on Thursdays.
-   - **File**: ![Weekly Production Overview](image1.jpg)
+   ![Weekly Production Overview](image1.jpg)
 
 2. **Total Monthly Production by Weekday**
    - **Description**: Aggregated total production quantity by weekdays throughout the entire month.
    - **Insight**: Shows overall highest and lowest production days, with Tuesday having the maximum production.
-   - **File**: ![Total Monthly Production by Weekday](image2.jpg)
+   ![Total Monthly Production by Weekday](image2.jpg)
 
 3. **Detailed Weekly Breakdown**
    - **Description**: A detailed stacked bar chart providing another perspective of daily production across the observed weeks.
    - **Insight**: Reinforces observations from the first visualization regarding variability in daily production.
-   - **File**: ![Detailed Weekly Breakdown](image3.jpg)
+   ![Detailed Weekly Breakdown](image3.jpg)
 
 ## Analysis Summary
 The presented data highlights the variability in production across different days of the week. Key observations include:
@@ -32,9 +32,3 @@ The presented data highlights the variability in production across different day
 
 These insights can assist in optimizing resource allocation, improving operational efficiency, and planning better for future production needs.
 
-## Additional Notes
-- Ensure all images are properly viewed to align with the provided descriptions and insights.
-- This analysis is intended for internal review and operational planning purposes.
-
-## Contact Information
-For more details or to discuss the visualizations, please contact [Your Name or Department Email].
