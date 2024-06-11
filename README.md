@@ -1,7 +1,7 @@
 # Production Quantity Analysis for September 2020
 
 ## Overview
-This README accompanies the visualizations of daily production quantities for September 2020, spanning from the 2nd to the 30th. The data is broken down by weekdays and visualized over several weeks to help identify trends and patterns in production efficiency.
+This section accompanies the visualizations of daily production quantities for September 2020, spanning from the 2nd to the 30th. The data is broken down by weekdays and visualized over several weeks to help identify trends and patterns in production efficiency.
 
 ## File Structure
 - `image1.jpg`: Stacked bar chart showing daily production quantity by weekday for each week (Weeks 36 to 40).
